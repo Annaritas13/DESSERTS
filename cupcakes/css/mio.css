@@ -1,0 +1,61 @@
+@charset "UTF-8";
+.btn-dange {
+}
+.imgcartas {
+	height: 180px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img1 {background-image: url( "../img/cupcake1.jpeg");}
+
+.img2 {background-image: url( "../img/descarga (57).jpeg");}
+
+.img3 {background-image: url( "../img/descarga (60).jpeg");}
+
+.img4 {background-image: url( "../img/descarga (58).jpeg");}
+
+.img5 {background-image: url( "../img/Lemon Vanilla Cupcakes.jpeg");}
+
+.img6 {background-image: url( "../img/High Altitude Chocolate Cherry Cupcakes - Curly Girl Kitchen.png");}
+
+.img_principal {
+	background-image: url( "../img/pexels-alleksana-4051564.jpg");
+	background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carrusel_texto {color:black;}
+
+.footer {
+	height: 280px;
+	background: #101920;
+	color: white;
+}
+
+.fa {
+  padding: 17px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50px;
+}
+
+.fa:hover {
+	opacity: 0.7;}
+
+.fa-facebook {
+	background: #3B5998;
+	color: #FFF;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: #FFF;}
+
+.fa-youtube {
+	background: #BB0000;
+	color: #FFF;}

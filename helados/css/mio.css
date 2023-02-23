@@ -1,0 +1,110 @@
+@charset "UTF-8";
+.btn-dange {
+}
+.imgcartas {
+	height: 150px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imgcartas {
+	height: 180px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+.img1 {background-image: url( "../img/Forever After - Rookie.jpeg");}
+
+.img2 {background-image: url( "../img/helado 3.jpeg");}
+
+.img_principal {
+	background-image: url( "../img/pexels-roman-odintsov-5060465 (1).jpg");
+	background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carrusel_texto {color:black;}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img { 
+	background-image: url( "../img/pexels-ds-stories-9227763.jpg");
+    min-height: 460px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.container {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+}
+
+
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%
+}
+
+.btn:hover {
+	background-color: #0069D9;
+	color: white;
+}
+
+.footer {
+	height: 280px;
+	background: #101920;
+	color: white;
+}
+
+.fa {
+  padding: 17px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50px;
+}
+
+.fa:hover {
+	opacity: 0.7;}
+
+.fa-facebook {
+	background: #3B5998;
+	color: #FFF;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: #FFF;}
+
+.fa-youtube {
+	background: #BB0000;
+	color: #FFF;}

@@ -1,0 +1,78 @@
+@charset "UTF-8";
+.btn-dange {
+}
+
+.imgcartas {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img1 {background-image: url( "../img/tarta 3.jpeg");}
+
+.img2 {background-image: url( "../img/Tarta de Cerezas Casera.jpeg");}
+
+.img3 {background-image: url( "../img/pexels-rebecca-5566020.jpg");}
+
+.img4 {background-image: url( "../img/pexels-noelle-otto-3602269.jpg");}
+
+.img5 {background-image: url( "../img/Tartaletki z kremem pâtissière i truskawkami - Fotokulinarnie.jpeg");}
+
+.img6 {
+	background-image: url( "../img/pexels-iulian-patrascu-12125085.jpg");
+	width:100px;
+}
+
+.img7 {background-image: url( "../img/Rainbow Fruit Tartlets Recipe.jpeg");height:250px;}
+
+.img8 {background-image: url( "../img/Credit to @pastrychefmatthew Strawberry Lemon Meringue Tart.png");height:250px;}
+
+.img9 {background-image: url( "../img/Vegan Blackberry & Coconut Custard Tart (1).jpeg");height:250px;}
+
+.img10 {background-image: url( "../img/Mixed Berry Tart Recipe _ Driscoll's.jpeg");height:250px;}
+
+
+.img_principal {
+	background-image: url( "../img/pexels-nishant-aneja-2955816.jpg");
+	background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+	
+width: 100%;
+}
+
+.carrusel_texto {color:black;}
+
+.footer {
+	height: 280px;
+	background: #101920;
+	color: white;
+}
+
+.fa {
+  padding: 17px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50px;
+}
+
+.fa:hover {
+	opacity: 0.7;}
+
+.fa-facebook {
+	background: #3B5998;
+	color: #FFF;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: #FFF;}
+
+.fa-youtube {
+	background: #BB0000;
+	color: #FFF;}
